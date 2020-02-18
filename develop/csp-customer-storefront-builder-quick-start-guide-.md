@@ -70,7 +70,7 @@ Log in with your Partner Center admin credentials to configure:
 - **Branding**: company name, logo, contacts, and more.
 - **Offers**: view all CSP offers. You can select which offers your customers can view and purchase. You can also personalize offer information and add your price.
 - **PayPal payment configuration**: add your PayPal payment account information. If you don't have a PayPal account, you can visit <https://www.paypal.com> and create a new account. This account will be used for PayPal to credit the payments made by customers. *Microsoft is not responsible for the relationship between partners and PayPal. Use of PayPal may require the partner or partner's customers to agree to additional terms.*
-- (*For India*) **PayU Payment configuration**: add your PayU Money payment account information. If you don't have a PayU Money account, you can visit <https://www.payumoney.com/> and create a new account. This account will be used for PayU to credit the payments made by customers. *Microsoft is not responsible for the relationship between partners and PayU. Use of PayU may require the partner or partner's customers to agree to additional terms.*
+- (*For India*) **PayU Payment configuration**: add your PayU payment account information. If you don't have a PayU account, you can visit <https://payu.in/> and create a new account. This account will be used for PayU to credit the payments made by customers. *Microsoft is not responsible for the relationship between partners and PayU. Use of PayU may require the partner or partner's customers to agree to additional terms.*
 
 ### Transact
 
@@ -165,8 +165,8 @@ To enhance or customize your CSP Customer Storefront:
   - Create a new PayPal account if you don't already have one. This account will be used for PayPal to credit the payments made by customers.
     - To open a PayPal business account, see <https://developer.paypal.com/docs/classic/lifecycle/goingLive/#register>.
     - To create a PayPal sandbox account see <https://developer.paypal.com/docs/classic/lifecycle/ug_sandbox/>.
-- (For India) a CSP partner can input their PayU Money account information such as PayU Client ID and password. Partners can find more information on <https://developer.payumoney.com/>.
-  - Create a new PayU Money account if you don't already have one. To open a PayU Money account, visit <https://www.payumoney.com/merchant-account/#/>. This account will be used for PayU to credit the payments made by customers.
+- (For India) a CSP partner can input their PayU Money account information such as PayU Client ID and password. Partners can find more information on <https://payu.in/developer-guide>.
+  - Create a new PayU Money account if you don't already have one. To open a PayU Money account, visit <https://payu.in/>. This account will be used for PayU to credit the payments made by customers.
 
 ## Customer experience scenarios
 
